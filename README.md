@@ -4,7 +4,8 @@ as the file name suggests, use this to download a youtube vid
 
 (obviously you need python, made in 3.8)
 
-```bash
+use the yt-dip python lib:
+```bash 
 pip install yt-dlp
 ```
 
