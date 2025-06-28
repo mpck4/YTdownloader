@@ -1,6 +1,6 @@
 as the file name suggests, use this to download a youtube vid
 
-### REQUIREMENTS!!!
+## REQUIREMENTS!!!
 
 (obviously you need python, made in 3.8)
 
@@ -8,4 +8,4 @@ as the file name suggests, use this to download a youtube vid
 pip install yt-dlp
 ```
 
-# From there, either cd to it, or just double click and paste your link, saves to the same folder you run it in
+#### From there, either cd to it, or just double click and paste your link, saves to the same folder you run it in
